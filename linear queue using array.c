@@ -20,7 +20,7 @@ int main()
 {
     int choice, data;
     while(1){
-    printf("\nEnter \n1 for Enqueue \n2 for Dequeue \n3 for Display \n4 for count\n5 for peek \n6 for Exit: ");
+     printf("\nEnter \n1 for Enqueue \n2 for Dequeue \n3 for Display \n4 for count\n5 for peek \n6 for Exit: ");
     scanf("%d", &choice);
     
     switch(choice)
